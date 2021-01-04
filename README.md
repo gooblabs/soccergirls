@@ -1,16 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the U10 Girls Soccer Team Page
 
 🚀 🐼
 
-yes
+This page will be used to centralize information relevant for players and parents. TeamSnap will continue to be the main communication hub for scheduling. 
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Latest Annoucements
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Zoom sessions
+Zoom session will begin on the week of January 5th. Please refer to the TeamSnap page for scheduling details.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
