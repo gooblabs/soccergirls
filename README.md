@@ -1,8 +1,8 @@
-## Welcome to the U10 Girls Soccer Team Page
+## Welcome to the 2011 Girls Soccer Team Page
 
 🚀 🐼
 
-This page will be used to centralize information relevant for players and parents. TeamSnap will continue to be the main communication hub for scheduling. 
+This page will be used to centralize information relevant for players and parents. TeamSnap will continue to be the main communication hub for event scheduling and team messaging. 
 
 ### Latest Annoucements
 
