@@ -12,6 +12,9 @@ This team WIKI page will be used to centralize information relevant for players 
 
 ### Key Links
 
+#### Weekly Zoom Video
+Here is the video repository for all the weekly zoom video exercises [go here](https://guides.github.com/features/mastering-markdown/) 
+
 #### Registration Page
 To register your child for an upcoming season [go here](https://guides.github.com/features/mastering-markdown/) 
 
