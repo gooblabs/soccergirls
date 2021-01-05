@@ -1,3 +1,9 @@
+## Latest News
+
+🚀 🐼
+
+Markham Soccer has continued to be under lockdown. No practices or games until further notice.
+
 ## Welcome  
 
 🚀 🐼
