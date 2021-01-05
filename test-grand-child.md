@@ -1,7 +1,7 @@
 ---
 title: Granchild of Test
 parent: Child of Test
-grand_parent: Test
+grand_parent: Zoom Sessions
 nav_order: 1
 ---
 
