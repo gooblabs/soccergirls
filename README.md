@@ -2,7 +2,7 @@
 
 🚀 🐼
 
-This page will be used to centralize information relevant for players and parents. TeamSnap will continue to be the main communication hub for event scheduling and team messaging. 
+This team WIKI page will be used to centralize information relevant for players and parents. TeamSnap will continue to be the main communication hub for event scheduling and team messaging. 
 
 ### Key Links
 
