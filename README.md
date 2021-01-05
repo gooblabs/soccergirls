@@ -7,10 +7,10 @@ This team WIKI page will be used to centralize information relevant for players 
 ### Key Links
 
 #### Registration Page
-To register your child for an upcoming season, [go here](https://guides.github.com/features/mastering-markdown/) to install the app.
+To register your child for an upcoming season [go here](https://guides.github.com/features/mastering-markdown/) 
 
 #### TeamSnap
-Team communications are managed with TeamSnap. [Go here](https://guides.github.com/features/mastering-markdown/)
+Team communications are managed with TeamSnap. [Go here](https://guides.github.com/features/mastering-markdown/) and install the app.
 
 
 
